@@ -1,0 +1,5 @@
+<project name="unity-web" url="https://github.com/tong/unity-web.hx" license="Public">
+	<user name="tong"/>
+	<description>Toolkit for web applications and pages to integrate with the ubuntu desktop</description>
+	<version name="1.0">Initial release</version>
+</project>
