@@ -1,17 +1,9 @@
 
 UNITY-WEB.HX
 ============
-Toolkit for Web applications and pages to integrate with the Ubuntu Desktop
+Haxe/Javascript types for web applications and pages to integrate with the ubuntu desktop
 
-
-LINKS
------
 http://developer.ubuntu.com/api/ubuntu-12.04/javascript/index.html
 http://developer.ubuntu.com/api/ubuntu-12.04/javascript/unity-web-api-reference.html
 http://bazaar.launchpad.net/~webapps/webapps-applications/trunk/files/head:/src/
 
-
-AUTHOR
-------
-http://disktree.net
-tong.disktree@gmail.com
