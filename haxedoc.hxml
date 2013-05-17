@@ -1,0 +1,11 @@
+
+-js all.js
+-xml haxedoc.xml
+--no-output
+Unity
+UnityInitParameters
+UnityLauncher
+UnityMediaPlayer
+UnityMessagingIndicator
+UnityNotification
+UnityObject
