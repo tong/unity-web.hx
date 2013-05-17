@@ -1,0 +1,12 @@
+{
+	"name" : "unity-web",
+	"url" : "https://github.com/tong/unity-web.hx",
+	"license": "Public",
+	"tags": ["ubuntu","unity","javascript","web"],
+	"description": "Javascript types for web applications and pages to integrate with the ubuntu desktop",
+	"version": "1.0",
+	"releasenote": "Initial haxe3 release",
+	"contributors": ["tong"],
+	"dependencies": {
+	}
+}
